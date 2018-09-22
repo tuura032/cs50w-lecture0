@@ -1,0 +1,50 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+
+table {
+    table-layout: inherit;
+    border: 2px dotted black;
+    border-collapse: collapse;
+    width: 40%;
+}
+
+
+body {
+    background-color: aqua;
+    margin: 80px;
+}
+
+#lists {
+    font-size: 24px;
+}
+
+#pad {
+    background-color: yellow;
+    padding: 10px;
+    margin: 20px;
+    color: red;
+}
+
+font {
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    border: 2px dotted black;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+th {
+    background-color: lightgray;
+}
+
+.name {
+    font-weight: bold;
+}
